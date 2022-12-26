@@ -12,9 +12,5 @@ SEJA BEM VINDO, VOLTE SEMPRE 👻✨
   <a href='https://www.linkedin.com/in/guilherme-prenholato-duarte-833a98252/' target="_blank"><img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' target="_blank"><a>
  </div>
  
- 
-<div> 
-  <img align="left" alt="luffy" src="https://user-images.githubusercontent.com/115123259/209515970-8ca77c50-3617-4727-a256-35438abb9555.png">
- <div>
- 
+
 
