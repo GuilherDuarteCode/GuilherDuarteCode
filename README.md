@@ -1,6 +1,5 @@
 SEJA BEM VINDO, VOLTE SEMPRE 👻✨
 
-- 👷🏽‍♂️ Atualmente trabalho como ajudante de polidor numa empresa de marmore e granitos. 
 - 📚 Faço faculdade de Engenharia De Software pela Unopar
 - 🐍 Estou praticando Python 
 - 🎈 aqui posto uns projetinhos que faço de bobeira e o que vou aprendendo ao longo do tempo
