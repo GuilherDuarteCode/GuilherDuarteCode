@@ -1,7 +1,7 @@
 SEJA BEM VINDO, VOLTE SEMPRE 👻✨
 
-- 📚 Faço faculdade de Engenharia De Software pela Unopar
-- 🐍 Estou praticando Python 
+- 📚 Faço faculdade de Sistemas de informação
+- 🐍 Estou aprendendo HTML + CSS
 - 🎈 aqui posto uns projetinhos que faço de bobeira e o que vou aprendendo ao longo do tempo
 - 🏃🏽‍♂️''Se você não acordar e começar a lutar pelos sonhos, você vai despertar com o barulho de alguém realizando-os no seu lugar.''
 
